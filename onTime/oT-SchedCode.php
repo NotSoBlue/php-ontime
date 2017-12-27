@@ -1,7 +1,7 @@
 <?php 
 session_start();
 error_reporting(E_ALL & ~E_NOTICE);
-include 'oT-Homepage+Navbar.php'; 
+include 'oT-Homepage-Navbar.php'; 
 $site = "sc";
 $user = $_SESSION['session_user'];
 $name = "Schedule Code List";

@@ -1,7 +1,7 @@
 <?php 
 session_start();
 error_reporting(E_ALL & ~E_NOTICE);
-include '../onTime/oT-Homepage+Navbar.php'; 
+include '../onTime/oT-Homepage-Navbar.php'; 
 $site = 'log-in/register';
 $name = 'Log-in | Register';
 $user = $_SESSION['session_user'];

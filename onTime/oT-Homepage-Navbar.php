@@ -126,8 +126,8 @@ if(!isset($_SESSION['session_user']))
 	    <div id='navcontainerleft' class='fiftycontainer inl left splashcontainer'>
 		    <h1 class='splashgreet'> <span id='splashgreet'>Good Day</span>!</h1>
 		    <div id='notlogin'><center> 
-		    <h1 class='prmtxt_w'><a href='onTime/oT-Log-in+Register.php' class='prmtxt_w'><b>Log-in </a>| 
-			<a href='onTime/oT-Log-in+Register.php#lr-action-scroll' class='prmtxt_w'>Register</b></a></h1></center>
+		    <h1 class='prmtxt_w'><a href='onTime/oT-Log-in-Register.php' class='prmtxt_w'><b>Log-in </a>| 
+			<a href='onTime/oT-Log-in-Register.php#lr-action-scroll' class='prmtxt_w'>Register</b></a></h1></center>
 		    </div>
 	<div class='splashtitleholder align_center_flex'>
 		<div class='nav_splash_logo inl'></div>
