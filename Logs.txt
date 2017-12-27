@@ -1,0 +1,41 @@
+UCC onTime;
+Updates as of :
+3:02 am
+03/13/16
+----------------
+Progress: 5% (haha);
+Remaining days: 
+24 days;
+================
+Updated:
+- Removed Faculty and Personal Schedule
+- Search bar transition
+- Side bar size decreased
+- lotus animation feedback discarded
+- Responsive onload
+================
+Done with:
+nav-bar, 
+side-bar,
+lotus (partial),
+nav-bar responsive;
+=================
+Task(s) expected to 
+be finished before Monday:
+Lay-out Home 
+(at least 80%),
+modals (global),
+log-in, register, master database (log-in part atleast),
+Sample Schedule Grid,
+Logic on overlapping time;
+==================
+Please acquire:
+blueprint (south)
+!important
+MIS database south 
+!important
+==================
+NOTICE!!
+Faculty setting-Cancelled.
+Personalized Schedule-
+Cancelled
